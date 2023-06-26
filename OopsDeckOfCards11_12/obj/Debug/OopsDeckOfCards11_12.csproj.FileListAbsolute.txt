@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\bin\Debug\OopsDeckOfCards11_12.exe.config
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\bin\Debug\OopsDeckOfCards11_12.exe
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\bin\Debug\OopsDeckOfCards11_12.pdb
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\obj\Debug\OopsDeckOfCards11_12.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\obj\Debug\OopsDeckOfCards11_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\obj\Debug\OopsDeckOfCards11_12.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\obj\Debug\OopsDeckOfCards11_12.exe
+C:\Users\LENOVO\source\repos\OopsDeckOfCards11_12\OopsDeckOfCards11_12\obj\Debug\OopsDeckOfCards11_12.pdb
